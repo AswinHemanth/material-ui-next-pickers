@@ -31,7 +31,6 @@ const styles = (theme:Theme):StyleRules => ({
     cursor: 'pointer'
   },
   input: {
-    minWidth: '180px',
     flexGrow: 1,
     maxWidth: '100%',
     height: '19px',
